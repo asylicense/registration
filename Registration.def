@@ -1,0 +1,8 @@
+LIBRARY	"Registration"
+
+EXPORTS
+  GetLic								@1
+  GetHDInfo								@2
+  TestPeriod							@3
+  TestHash								@4
+  CreateID=?CreateID@@YAIPEAD@Z			@5
